@@ -1,0 +1,9 @@
+build
+.lock-wscript
+core
+node_modules
+
+.gdbinit
+.gdb_history
+
+._*
